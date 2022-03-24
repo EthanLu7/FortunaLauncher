@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "pixelmonfortunalauncher",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Pixelmon Fortuna Launcher",
+  "description": "Official Pixelmon Fortuna Launcher",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) and Ethan",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
